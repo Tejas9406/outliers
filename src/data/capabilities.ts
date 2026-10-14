@@ -1,0 +1,58 @@
+import { CapabilityItem } from "@/types";
+
+export const capabilitiesData: CapabilityItem[] = [
+  {
+    id: "cap-1",
+    name: "Distributed Systems & Edge Networking",
+    category: "Backend & Cloud",
+    description: "Designing fault-tolerant mesh networks, Raft consensus clusters, and low-latency gRPC communications under harsh network constraints.",
+    associatedMemberIds: ["member-1", "member-4"],
+    associatedProjectIds: ["proj-1", "proj-4"],
+    evidenceText: "Engineered ResQMesh P2P gossip engine and HyperStream broker with sub-millisecond p99 latency.",
+  },
+  {
+    id: "cap-2",
+    name: "Applied AI & On-Device Computer Vision",
+    category: "AI & Data",
+    description: "Training, pruning, and quantizing neural network architectures (ONNX/TensorRT) for real-time edge inference without cloud round-trips.",
+    associatedMemberIds: ["member-2"],
+    associatedProjectIds: ["proj-1", "proj-3"],
+    evidenceText: "Achieved 98.2% terrain segmentation accuracy on $18 edge microcontrollers in SIH Grand Finale.",
+  },
+  {
+    id: "cap-3",
+    name: "Creative 3D Web & Interactive GLSL",
+    category: "Frontend",
+    description: "Crafting fluid, GPU-accelerated web experiences with Three.js, custom vertex/fragment shaders, and physics-driven spring micro-interactions.",
+    associatedMemberIds: ["member-3"],
+    associatedProjectIds: ["proj-1", "proj-2", "proj-4"],
+    evidenceText: "Built 60fps real-time 3D tactical radar map and interactive golden mascot character systems.",
+  },
+  {
+    id: "cap-4",
+    name: "Zero-Knowledge Cryptography & Passkeys",
+    category: "Systems & Security",
+    description: "Implementing client-side arithmetic circuits (Circom/zk-SNARKs), hardware enclave WebAuthn passkeys, and zero-trust verification.",
+    associatedMemberIds: ["member-1", "member-4"],
+    associatedProjectIds: ["proj-2"],
+    evidenceText: "Built sub-second client-side Groth16 witness generator and biometric session authenticator.",
+  },
+  {
+    id: "cap-5",
+    name: "Full-Stack Integration & Product Strategy",
+    category: "UI/UX & Product",
+    description: "Aligning deep technical systems with crisp user journeys, robust end-to-end testing, rapid pitch narratives, and judge demonstrations.",
+    associatedMemberIds: ["member-4", "member-3"],
+    associatedProjectIds: ["proj-1", "proj-3"],
+    evidenceText: "Awarded Best Pitch & Presentation at All-India Innovation Conclave with 100% test coverage.",
+  },
+  {
+    id: "cap-6",
+    name: "Multi-Agent Orchestration & RAG",
+    category: "AI & Data",
+    description: "Designing deterministic multi-agent graphs with self-reflection, citation-grounded vector search, and automated evaluation harnesses.",
+    associatedMemberIds: ["member-2", "member-1"],
+    associatedProjectIds: ["proj-3"],
+    evidenceText: "Reduced enterprise legal audit turnaround from 6 hours to 42 seconds with <0.4% hallucination rate.",
+  },
+];

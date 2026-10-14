@@ -1,0 +1,181 @@
+person 1: TEJAS KARPE
+
+CSE (AI & ML) Student | Software Developer | AI Enthusiast
+
+About Me
+
+Third-year Computer Science and Engineering (AI & ML) student with experience in Java, Python, backend development, and AI-powered applications. Interested in building scalable software solutions, exploring AI technologies, and solving real-world problems through hands-on projects and collaborative development.
+
+Skills
+
+Java · Python · TypeScript · JavaScript · SQL · React.js · Node.js · Express.js · Spring Boot · PostgreSQL · MongoDB · Redis · REST APIs · Machine Learning · RAG · Git/GitHub · AWS
+
+Selected Projects
+
+Kala Setu
+
+A digital platform connecting people with local artisans, traditional craftsmanship, and cultural experiences through an AI-powered discovery experience.
+
+Tech: React · Node.js · PostgreSQL · Redis · Gemini API · RAG
+
+MindWell – Student Stress Level Checker
+
+A full-stack student wellness application integrating an AI chatbot and Google Sheets API for data synchronization and student assessments.
+
+Tech: Java · Spring Boot · React · MongoDB · Gemini API
+
+Achievements
+
+🏆 Top 3% Global Contributor — GirlScript Summer of Code (GSSoC)
+Ranked #1034 among 45,000+ participants in open-source software development.
+
+🏆 Published Research Paper — IJSDR
+Published a research paper titled “SBGI – Shaping Careers through Excellence in Education.”
+
+🏆 Project Contributor — Smart India Hackathon 2026
+Contributed to Kala Setu, a local artisan and cultural experience discovery platform.
+
+Experience
+
+Technical Associate / Software Developer — Sky Aviation Pvt. Ltd.
+Kolhapur, India | January 2025 – Present
+
+Contributed to backend development by building scalable services and REST APIs, collaborating with a cross-functional team, and integrating software features to improve workflow efficiency and application performance.
+
+Python Developer Intern — Orbit Solutions
+Sangli, India (Hybrid) | May 2024 – June 2024
+
+Developed Python backend scripts, resolved programming logic errors, and contributed to improving deployment efficiency during a six-week internship.
+
+Connect
+
+GitHub: https://github.com/Tejas9406
+LinkedIn: https://linkedin.com/in/tejas-karpe
+Email: tejaskarpe06@gmail.com
+Phone: +91 7558417704
+
+person 2:PURVA MARVE
+CSE (AI & ML) Student | Frontend Developer | AI/ML Enthusiast
+About Me
+CSE (AI & ML) student who loves turning ideas into functional, engaging digital experiences. I enjoy building frontend experiences, exploring AI/ML, and learning through hands-on projects and hackathons.
+
+Skills
+Java · Spring Boot · Python · SQL · HTML/CSS · JavaScript · React · Machine Learning · UI/UX · Git/GitHub
+Selected Projects
+Kalasetu
+A digital platform connecting people with local artisans, traditional craftsmanship and cultural experiences through an engaging digital experience.
+Tech: React · Web Development · UI/UX
+GitHub: [Kalasetu GitHub Link]
+Self-Evolving Autonomous Research Agent
+An Agentic AI system designed to autonomously research, analyze, evaluate and refine information through a multi-step research workflow.
+Tech: Agentic AI · AI/ML · Research Automation
+GitHub: [Research Agent GitHub Link]
+Achievements
+🏆 Finalist — 24-Hour Hackathon
+Event Fusion — Kashibai Navale College of Engineering, Pune
+🏆 Finalist — CodeRush 2.0
+YCCE, Nagpur
+🏆 Finalist — 24-Hour Hackathon
+HackWave 3.0 — CDGI, Indore
+🏆 Hackathon Participant / Finalist — Event CuriousSparc
+VIT Pune
+Experience
+Frontend Developer — Sky Aviation Pvt. Ltd.
+Kolhapur, India
+Contributed to software development by taking ownership of frontend implementation, building functional user interfaces and translating requirements into practical digital experiences.
+
+Connect
+GitHub: https://github.com/PURVAMARVE
+LinkedIn: www.linkedin.com/in/purva-marve-a82185334
+Email: purvamarve0508@gmail.com
+Phone: 8329234506
+
+person 3:2. Skills
+Backend Development: Node.js, Express.js, RESTful APIs, System Design, JWT Authentication, Nodemailer
+
+Database Management: MongoDB, Mongoose, Data Modeling, Ledger Architecture
+
+Frontend & UI/UX: MERN Stack (React.js, Node.js, Express.js, MongoDB), UI/UX Design, Responsive Web Design
+
+Emerging Tech: Machine Learning (ML), AI Model Integrations (Image-to-Text)
+
+3. Achievements
+Android Development Internship: Successfully completed a 2-month hands-on internship in Android development.
+
+4. Projects
+5. CampusCart – Student Marketplace Platform
+Description: A full-stack MERN web application enabling students to buy and sell second-hand campus items smoothly without middlemen. Features structured purchase requests, pickup scheduling, automated email notifications, an admin dashboard, and AI-powered product description generation.
+
+GitHub Repository: CampusCart Source Code
+
+Live Demo: CampusCart Live Web App
+
+2. Backend Ledger – Banking Application API
+Description: A secure, scalable RESTful Backend Ledger System built with Node.js, Express.js, and MongoDB. Includes JWT authentication using cookies, double-entry transaction tracking (credit/debit), account balance calculation, and email notifications.
+
+GitHub Repository: Backend Ledger Source Code
+
+Live API: Backend Ledger Live API
+
+5. Summary / Self-Intro
+"A passionate Full-Stack Developer specializing in MERN and Backend Engineering, driven by the thrill of turning complex ideas into clean, efficient code. From building secure banking ledger architectures to designing intuitive, AI-enhanced web platforms, I focus on solving real-world problems with scalable technology and thoughtful UI/UX."
+
+
+ person 4:SHREERAJ GUDADE
+
+"COMPUTER SCIENCE × AI/ML"
+
+01 / INTELLIGENCE
+
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- Neural Networks & Sentiment Analysis
+- Data Processing & Model Training
+
+02 / ENGINEERING
+
+- Java · Python · C
+- Data Structures & Algorithms
+- Backend Development · REST APIs
+- Database Systems · Android Development
+
+03 / INFRASTRUCTURE
+
+- Linux · Docker · Virtualization
+- Automation & Containerized Services
+- Networking · System Debugging
+- Development Environments & Deployment
+
+04 / SYSTEMS EXPLORATION
+
+- Cybersecurity & Ethical Hacking
+- AI Agents & Workflow Automation
+- RAG Pipelines & Document Intelligence
+- Systems Architecture & Technical Problem-Solving
+
+05 / SELECTED PROJECTS
+
+- Sentimental AI — NLP · Deep Learning · LSTM
+- ManiFeast — Android · Firebase · Mess Management
+- BIS Standards AI Assistant — RAG · Document Retrieval · AI-Powered Q&A
+
+06 / ACHIEVEMENTS
+
+- LeetCode — Competitive problem-solving & algorithmic practice
+- Smart India Hackathon — Internal hackathon participation and AI-based solution development
+- AI/ML Engineering — Developed hands-on projects involving NLP, deep learning, and document intelligence
+
+
+
+Understanding systems beyond the interface. Engineering solutions beyond the obvious.
+
+
+GitHub: GitHub.com/shreerajg
+LinkedIn: https://www.linkedin.com/in/shreeraj-gudade-2b60a5348
+email: shreerajgudade124@gmail.com 
+phone : 9112108810
+
+
+
+person 4:
+
